@@ -19,6 +19,7 @@ gem 'bootstrap-sass'
 
 #devise
 gem 'devise', '~> 3.1.0.rc2'
+gem 'paperclip', github: 'thoughtbot/paperclip'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
