@@ -81,5 +81,5 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   #required for devise, set to host name
-  config.action_mailer.default_url_options = { :host => 'pinteresting.herreraj.com' }
+  config.action_mailer.default_url_options = { :host => 'http://pinteresting.herreraj.com' }
 end
