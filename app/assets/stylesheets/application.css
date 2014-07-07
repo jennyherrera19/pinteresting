@@ -14,3 +14,5 @@
  *= require_self
  *= require 'masonry/transitions'
  */
+
+ @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
